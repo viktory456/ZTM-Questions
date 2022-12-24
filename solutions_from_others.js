@@ -30,7 +30,8 @@ const object = {
     name: 'Sally',
     surname: {
 		surname: 'Molly-Polly',
-		date: 'today'
+		
+		income: 'high'
     }
 }
 
