@@ -29,7 +29,7 @@ findArrayNums(array, targetNum);
 const object = {
     name: 'Sally',
     surname: {
-
+		surname: 'Molly'
     }
 }
 
