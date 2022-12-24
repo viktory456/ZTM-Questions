@@ -29,7 +29,8 @@ findArrayNums(array, targetNum);
 const object = {
     name: 'Sally',
     surname: {
-		surname: 'Molly-Polly'
+		surname: 'Molly-Polly',
+		date: 'today'
     }
 }
 
