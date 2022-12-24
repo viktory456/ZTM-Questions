@@ -31,7 +31,8 @@ const object = {
     surname: {
 		surname: 'Molly-Polly',
 		date: 'today',
-		color: 'blue'
+		color: 'blue',
+		type: 'normal'
     }
 }
 
